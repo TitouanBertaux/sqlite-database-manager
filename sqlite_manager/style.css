@@ -1,0 +1,16 @@
+#siteWebLink {
+    -fx-text-fill: blue;
+}
+
+#siteWebLink:visited {
+    -fx-text-fill: blue;
+}
+
+#siteWebLink:hover {
+    -fx-underline: true;
+}
+
+#siteWebLink:pressed {
+    -fx-text-fill: blue; 
+    -fx-underline: true; 
+}

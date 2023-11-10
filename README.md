@@ -9,3 +9,8 @@ Sur windows :
 3. Une fois fait, exécuter simplement le fichier run.bat
 
 Utilisation :
+**Allez dans : File > Open File** afin d'ouvrir une base de donnée sqlite
+
+A l'aide du bouton **Table(s)** vous pouvez sélectionner une des tables de la base de données afin d'en visualiser le contenu.
+
+Dans la boite de saisie, vous pouvez exécuter des requêtes SQLite qui s'exécuteront quand vous cliquerez sur le bouton **Execute**
